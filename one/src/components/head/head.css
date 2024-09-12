@@ -1,0 +1,32 @@
+.head{
+
+display: flex;
+width: 100%;
+justify-content: space-between;
+margin-left: 20px;
+background-color: #f8f9fa;
+}
+
+.box1 .m{
+ justify-content: center;
+}
+   
+
+
+.box2 {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin-right: 80px;
+  }
+  @media (max-width:600px){
+    .m{
+        width: 100px ;
+        
+    }
+  }
+  @media (max-width:600px){
+    .sign{
+        color: red;
+    }
+  }

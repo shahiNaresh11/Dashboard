@@ -1,0 +1,20 @@
+.responsive{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+.img{
+    width: 100px;
+}
+@media screen {
+    @media (min-width: 576px) { 
+        .responsive{
+            background-color: red;
+            display: flex;
+            flex-direction: row;
+        }
+        .img{
+            width: 500px;
+        }
+     }
+}

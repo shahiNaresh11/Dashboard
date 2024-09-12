@@ -1,0 +1,41 @@
+/* .div{
+    background-color: green;
+    width: 500px;
+
+
+
+
+}
+.bottom{
+    background-color: aqua;
+    display: flex;
+
+
+
+
+} */
+
+.right ,p{
+    display: block;
+   
+}
+ .right{
+  
+  display: inline;
+    width: 200px;
+    margin-top: 60px;
+
+ }
+ .hero{
+    display: flex;
+    justify-content: end;
+ 
+   
+ }
+
+.search {
+    width: 150px;
+  
+  }
+  
+ 
